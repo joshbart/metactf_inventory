@@ -1,0 +1,6 @@
+# The source and binary provided are helpful to have in the folder when 
+# working on this exploit. But, they are not mine to license. They are 
+# also not part of the solution to this problem. So, I want to keep those 
+# files out of source control.
+
+inventory*
